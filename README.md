@@ -43,10 +43,6 @@ To use Keep Notes locally, follow these steps:
 
 Contributions are welcome! If you find any bugs, have suggestions for improvements, or would like to add new features, please open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Contact
 
 If you have any questions or feedback, feel free to contact me at [darshanmalviya9826@gmail.com].
